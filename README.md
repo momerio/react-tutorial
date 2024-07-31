@@ -5,3 +5,6 @@ https://ja.react.dev/learn/tutorial-tic-tac-toe
 npm install
 
 npm start
+
+# 
+keyを選ぶ 項からいまいち何が起きているかわからん
